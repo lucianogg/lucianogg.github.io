@@ -1,3 +1,7 @@
 #+TITLE: Luciano García Giordano
 
-Welcome to my website. This is going to become better, but for now I'm already here!
+Welcome to my website. As you can see, it's far from being complete. Nonetheless, it's continually being improved.
+
+|----------+---------------|
+| LinkedIn | [[https://www.linkedin.com/in/luciano-garcia-giordano/][Check it here]] |
+|----------+---------------|
